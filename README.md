@@ -8,6 +8,6 @@
 
 Note: This git repository already includes 'app.py'
 
-###Steps to create a python egg file:
+
 
 

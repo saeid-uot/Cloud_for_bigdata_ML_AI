@@ -1,6 +1,6 @@
 # python-hello-world
 
-##You can use this repository to create a python egg file which can then be used to test for libration installation.
+##The main objective of this assignment is to get more familiar with github functionalities.
 
 ##Requirement:
 * Python 3.x

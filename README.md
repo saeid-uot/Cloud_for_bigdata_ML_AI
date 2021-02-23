@@ -1,5 +1,5 @@
 # python-hello-world
-Signing Shahin & Zoobin
+Signing Alexander Wang
 
 ##The main objective of this assignment is to get more familiar with github functionalities.
 

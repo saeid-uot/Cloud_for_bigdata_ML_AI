@@ -6,6 +6,8 @@ This sample code illustrates how to start a *Google Cloud Engine (GCE)* instance
 
 Before we start, we need to:
 
+* Using git or gh Clone this Repository on you Local and/or Compute Instance that you will spin up
+
 * Use the data in train.csv 
  
 * have a [*GCP*](https://cloud.google.com/) account, and [download](https://cloud.google.com/sdk/), install, and [configure](https://cloud.google.com/sdk/gcloud/reference/config/) the *Google Cloud SDK* on our local computer.

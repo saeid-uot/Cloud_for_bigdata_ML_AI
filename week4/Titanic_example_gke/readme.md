@@ -6,7 +6,10 @@ This sample code illustrates how to start a *Google Cloud Engine (GCE)* instance
 
 Before we start, we need to:
 
-* Using git or gh Clone this Repository on you Local and/or Compute Instance that you will spin up (all the content are in /week4/Titanic_example_gke)
+
+
+* Using git or gh Clone this Repository on you Local and/or Compute Instance that you will spin up (all the content are in /week4/Titanic_example_gke),
+If willing to install gh on linux use please refer to this instructions: https://github.com/cli/cli/blob/trunk/docs/install_linux.md 
 
 * Use the data in train.csv 
  

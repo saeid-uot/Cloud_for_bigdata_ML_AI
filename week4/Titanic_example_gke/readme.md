@@ -37,7 +37,7 @@ The *scopes* argument grants the instance the right permission to access *GCS*.
 We can also specify a different machine type or image. For example, the following command creates an *Ubuntu* instance of type *n1-standard-2*:
 
 ```bash
-gcloud compute instances create $MY_INSTANCE --machine-type=n1-standard-2 --image-family=ubuntu-1604-lts --image-project ubuntu-os-cloud --scopes storage-rw
+gcloud compute instances create $MY_INSTANCE --machine-type=n1-standard-2 --scopes storage-rw
 ```
 You may want to learn more about the [machine types](https://cloud.google.com/compute/docs/machine-types) and  [images](https://cloud.google.com/compute/docs/images), or see a list of available machine types and images with the following two commands:
 

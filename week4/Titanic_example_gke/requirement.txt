@@ -1,0 +1,8 @@
+You need to install below packages on your virtual machine in GCP
+
+   
+numpy==1.14.0
+pandas==0.22.0
+scikit-learn==0.19.1
+scipy==1.0.0
+tensorflow==1.15.2

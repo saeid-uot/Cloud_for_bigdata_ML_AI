@@ -1,6 +1,6 @@
 ## Introduction
 
-This sample code illustrates how to start a *Google Cloud Engine (GCE)* instance and train a model using scikit-learn on the instance. We will be using the [Titanic dataset](https://www.kaggle.com/c/titanic) from [Kaggle](https://www.kaggle.com/). The goal is to train a classifier to predict whether a given passenger on Titanic survived or not.
+This sample code illustrates how to start a *Google Cloud Engine (GCE)* instance and train a model using scikit-learn on the instance. We will be using the Titanic dataset. The goal is to train a classifier to predict whether a given passenger on Titanic survived or not.
 
 ## Prerequisites
 
